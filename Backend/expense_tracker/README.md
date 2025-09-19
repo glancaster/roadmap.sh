@@ -4,6 +4,10 @@ Based on https://roadmap.sh/projects/expense-tracker
 
 ## Plan:
 
+- [x] CLI Parser
+- [ ] Database
+
+
 ### Crates/Dependencies
 
 - Clap -- CLI Argument Parser
